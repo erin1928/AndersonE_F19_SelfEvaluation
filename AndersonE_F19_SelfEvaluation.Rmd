@@ -1,0 +1,451 @@
+---
+title: "AndersonE_F19_SelfEvaluation"
+author: "Erin Anderson"
+date: "`r Sys.Date()`"
+output: html_document
+---
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+<meta name="author" content="Christopher A Schmitt" />
+
+<meta name="date" content="2023-08-17" />
+
+<title>AN/BI 588: End-of-Semester Self Evaluation</title>
+
+<script src="site_libs/header-attrs-2.15/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+
+
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div id="header">
+
+
+
+<h1 class="title toc-ignore">AN/BI 588: End-of-Semester Self
+Evaluation</h1>
+<h4 class="author">Christopher A Schmitt</h4>
+<h4 class="date">August 17, 2023</h4>
+
+</div>
+
+
+<hr />
+<div id="course-overview" class="section level3">
+<h3><a
+href="https://fuzzyatelin.github.io/bioanth-stats/overview.html">Course
+Overview</a></h3>
+</div>
+<div id="course-outline" class="section level3">
+<h3><a
+href="https://fuzzyatelin.github.io/bioanth-stats/outline.html">Course
+Outline</a></h3>
+</div>
+<div id="modules" class="section level3">
+<h3><a
+href="https://fuzzyatelin.github.io/bioanth-stats/modules.html">Modules</a></h3>
+</div>
+<div id="assignments" class="section level3">
+<h3><a
+href="https://fuzzyatelin.github.io/bioanth-stats/assignments.html">Assignments</a></h3>
+</div>
+<div id="resources" class="section level3">
+<h3><a
+href="https://fuzzyatelin.github.io/bioanth-stats/resources.html">Resources</a></h3>
+</div>
+<div id="policies" class="section level3">
+<h3><a
+href="https://fuzzyatelin.github.io/bioanth-stats/policies.html">Policies</a></h3>
+</div>
+<div id="insurmountable-coding-problems" class="section level3">
+<h3><a
+href="https://fuzzyatelin.github.io/bioanth-stats/studentproblems.html">Insurmountable
+Coding Problems</a></h3>
+<hr />
+<center>
+<font size="+2"><b>Sashay… Away.</b></font>
+</center>
+<p><br></p>
+<center>
+<p>
+<img src="https://media.giphy.com/media/RPdLHpiOnL2pO/giphy.gif" style="border:5px solid black">
+</p>
+</center>
+<p><br></p>
+<center>
+<p>The following self evaluation is meant to guide you through a
+reflection on what you put into this course, and also what you got out
+of it in return. Your self evaluation is <em>not</em> the place to
+criticize, evaluate, or thank the instructor (we will have had many
+thorough conversations about that in class, and formal evaluations on
+the last day of class). This is about <em>you</em>. Unless otherwise
+noted, please answer each question in no more than <em>eight</em>
+sentences. At the end, I ask you to assign yourself a grade that you
+think is both a fair and honest reflection of your performance in the
+class given what was asked of you. <br><br> Whether I agree with your
+assessment or not, I will schedule a time for us to discuss your
+self-assessment. In this discussion, we will come to an agreement
+regarding your final grade reflecting the criteria in the <a
+href="https://fuzzyatelin.github.io/bioanth-stats/overview.html">Course
+Overview</a> and as outlined below.</p>
+</center>
+<hr />
+</div>
+<div id="instructions" class="section level2">
+<h2>Instructions</h2>
+<hr />
+<p>Please download this Markdown file (<code>selfevaluation.Rmd</code>)
+from my GitHub site (in the
+<code>fuzzyatelin.github.io/bioanth-stats/</code> folder) and answer the
+appropriate questions in the spaces provided. Once you’ve knitted the
+final file, please <em>email</em> the <strong>html</strong> version of
+that file to me with the name
+<code>[LastF]_F19_SelfEvaluation.html</code> (with <code>LastF</code>
+meaning your last name followed by your first initial, i.e., mine would
+be called <code>SchmittC_F19_SelfEvaluation.html</code>). I must receive
+this file by <strong>December 14, 2023</strong> at the earliest, and by
+<strong>Midnight of the Final Exam Date</strong> at the latest.</p>
+<hr />
+<div id="overall-impression" class="section level3">
+<h3>Overall Impression</h3>
+<hr />
+<p>In place of my name as author on this Markdown file, please insert
+your own, along with the date on which you completed this
+self-assessment. In place of the RuPaul GIF, above, please choose a GIF
+of a drag queen that best exemplifies your overall feelings about what
+you learned/accomplished in this course. Additionally, replace the
+<code>The following self evaluation...</code> text below your GIF with a
+three sentence summary of your experience in the class and what you take
+away from it to accompany that GIF. You may also choose a catchy
+title.</p>
+<hr />
+</div>
+<div id="what-were-you-asked-to-do" class="section level3">
+<h3>What were you asked to do?</h3>
+<hr />
+<p>Please give me a bulleted/numbered list of each task you were asked
+to do for this course. Where relevant, please also link the
+<em>html</em> version of the file representing each task, in your own
+repos, to the bulleted entry for that task.<br><br><br><br><br><br></p>
+<hr />
+Modules 1-22 including student-led modules
+All five homeowrk assignments and peer feedback
+<br>
+Replication Assignment
+<br>
+Statistical vignette
+<br>
+Attended all classes
+
+</div>
+<div id="what-did-you-accomplish" class="section level3">
+<h3>What did you accomplish?</h3>
+<hr />
+<p>Please let me know how many of the above tasks you accomplished. If
+any of them were accomplished later than stipulated, please note that.
+If you contacted me about them being late (and we discussed it and I
+said it was ok), please note that, too. You may provide a
+bulleted/numbered list matching the one
+above.
+
+I completed all homework assignments on time. 
+<br>
+Two modules were done later than asked as I had not completed them fully and originally had old modules organized in a different way than I do now. 
+<br>
+My vignette was completed and presented on time, and I turned in my replication assignment on time and followed all deadlines as requested.
+<br><br><br><br><br><br></p>
+<hr />
+
+</div>
+<div id="how-well-did-you-accomplish-them" class="section level3">
+<h3>How well did you accomplish them?</h3>
+<hr />
+<p>Please let me know how well you feel you accomplished your tasks, in
+a general sense. What do you feel you did the best, and what did you do
+the least well? What was the hardest part for you? Did your
+work/understanding/ease improve over the course of the
+semester?
+
+I am very proud of my replication assignment, Zombies homework, and vignette. I felt that on both of these assignments I put a lot of work into my code and spent a considerable amount of time outside of class and office hours working to make my assignments work well and look nice.
+
+I think I did the malfunction assignment the worst as I had a really hard time figuring the code out and working through the errors I was recieving.
+
+I struggled the most with the replication assignment and with the later modules on GLMMs. I found LMM and GLMMs conceptually challenging and difficult to replicate, as well as work through in my replication assignment. I also had trouble understanding and choosing which models to run for my replication assignment.
+<br><br><br><br><br><br></p>
+<hr />
+
+</div>
+<div
+id="how-has-your-understanding-of-and-approach-to-statistics-and-project-design-changed-since-taking-this-course"
+class="section level3">
+<h3>How has your understanding of and approach to statistics and project
+design changed since taking this course?</h3>
+<hr />
+<p>This may be in relation to previous knowledge, or in relation to
+future/planned work.
+
+I gained a better apprecuiation for statistics and how they relate to and can be used in research. I had no prior knowledge of stats or R before this class and feel much more comfortable reading empirical papers, understanding why certain models were run, and understanding R and its packages. I am currently working on a senior thesis and am using R to analyze and visualize my results!!
+<br><br><br><br><br><br><br><br></p>
+
+<hr />
+</div>
+<div id="what-did-you-learn-from-all-this" class="section level3">
+<h3>What did you learn from all this?</h3>
+<hr />
+<p>Please name at least three things you feel you learned in this
+course.
+I learned about R and how to import and use packages.
+I learned about linear regressions and how to use them to fit models and visualize data.
+I learned how to make graphs and box plots (my favorite part of the course!)
+I was introduced to GitHub and learned how to push and pull my/my peers' repos and work on them remotely (something I introduced to my lab and we work on together now!)
+<br><br><br><br><br><br><br><br></p>
+
+<hr />
+</div>
+<div
+id="what-did-your-learn-about-teamwork-in-this-course-how-did-the-readings-on-teamwork-foster-this-understanding-how-did-the-teamwork-experiences"
+class="section level3">
+<h3>What did your learn about teamwork in this course? How did the
+readings on teamwork foster this understanding? How did the teamwork
+experiences?</h3>
+<hr />
+<p><br><br><br><br><br><br><br><br><br><br><br><br></p>
+<hr />
+</div>
+<div
+id="how-did-the-peer-commentary-process-and-group-project-relate-if-at-all-to-what-you-view-as-your-successes-or-difficulties-in-this-course"
+class="section level3">
+<h3>How did the Peer Commentary process and Group Project relate, if at
+all, to what you view as your successes or difficulties in this
+course?</h3>
+<hr />
+<p><br><br><br><br><br><br><br><br><br><br><br><br></p>
+<hr />
+</div>
+<div
+id="what-if-anything-of-lasting-value-do-you-take-away-from-this-experience-if-nothing-what-would-you-do-differently-if-you-were-to-start-over-in-this-course"
+class="section level3">
+<h3>What, if anything, of lasting value do you take away from this
+experience? If nothing, what would you do differently if you were to
+start over in this course?</h3>
+<hr />
+<p><br><br><br><br><br><br><br><br><br><br><br><br></p>
+<hr />
+</div>
+<div
+id="taking-this-self-assessment-into-account-and-with-a-being-the-highest-if-you-were-the-instructor-what-grade-would-you-give-yourself-given-your-evaluation-of-your-own-performance-this-semester-please-be-honest."
+class="section level3">
+<h3>Taking this self-assessment into account (and with
+<strong>A</strong> being the highest), if you were the instructor, what
+grade would you give yourself given your evaluation of your own
+performance this semester? Please be honest.</h3>
+<hr />
+<br>
+<center>
+[A/A-]
+</center>
+<p><br></p>
+<hr />
+</div>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
