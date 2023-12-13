@@ -170,8 +170,8 @@ pre code {
 
 <h1 class="title toc-ignore">AN/BI 588: End-of-Semester Self
 Evaluation</h1>
-<h4 class="author">Christopher A Schmitt</h4>
-<h4 class="date">August 17, 2023</h4>
+<h4 class="author">Erin Anderson</h4>
+<h4 class="date">December 17, 2023</h4>
 
 </div>
 
@@ -214,26 +214,12 @@ Coding Problems</a></h3>
 <p><br></p>
 <center>
 <p>
-<img src="https://media.giphy.com/media/RPdLHpiOnL2pO/giphy.gif" style="border:5px solid black">
+<img src="tmp.gif" style="border:5px solid black">
 </p>
 </center>
 <p><br></p>
 <center>
-<p>The following self evaluation is meant to guide you through a
-reflection on what you put into this course, and also what you got out
-of it in return. Your self evaluation is <em>not</em> the place to
-criticize, evaluate, or thank the instructor (we will have had many
-thorough conversations about that in class, and formal evaluations on
-the last day of class). This is about <em>you</em>. Unless otherwise
-noted, please answer each question in no more than <em>eight</em>
-sentences. At the end, I ask you to assign yourself a grade that you
-think is both a fair and honest reflection of your performance in the
-class given what was asked of you. <br><br> Whether I agree with your
-assessment or not, I will schedule a time for us to discuss your
-self-assessment. In this discussion, we will come to an agreement
-regarding your final grade reflecting the criteria in the <a
-href="https://fuzzyatelin.github.io/bioanth-stats/overview.html">Course
-Overview</a> and as outlined below.</p>
+<p>I faced many setbacks and frustrations over the duration of this class. However, due to desire to understand applied statistics and R I continually had to remind myself that this process is a learning curve and takes lots of trial and error. I felt empowered to continue to work to try and improve my coding abilities and stats knowledge because of how applicable this course and skill set is to my future career as a research biologist, </p>
 </center>
 <hr />
 </div>
@@ -272,46 +258,70 @@ title.</p>
 <p>Please give me a bulleted/numbered list of each task you were asked
 to do for this course. Where relevant, please also link the
 <em>html</em> version of the file representing each task, in your own
-repos, to the bulleted entry for that task.<br><br><br><br><br><br></p>
-<hr />
-Modules 1-22, including student-led modules
+repos, to the bulleted entry for that task.
+<br>
+<br>
+<b>[1]</b> Modules 1-22, including student-led modules
+<br>
 <br>
 https://github.com/erin1928?tab=repositories
 <br>
+<br>
 I made each individual module a repo on GitHub and found this method to be very helpful for organizing as well as going back and looking at the code.
 <br>
-All five homework assignments and peer feedback
 <br>
-file:///Users/erin/AN588/AN-588-Week-2/Module-4.html
+<b>[2]</b> All five homework assignments and peer feedback
+<br>
+<br>
+<b>[2a]</b> file:///Users/erin/AN588/AN-588-Week-2/Module-4.html
+<br>
 <br>
 This was my first homework! I didn't know about chunks and how to organuze my code in R at this point and can visibly see the difference between that assignment and the work I've done at the end of the semester.
 <br>
-file:///Users/erin/AN588/Homework_2/erinea_OriginalHomeworkCode_02.html
+<br>
+<b>[2b]</b> file:///Users/erin/AN588/Homework_2/erinea_OriginalHomeworkCode_02.html
+<br>
 <br>
 This was homework 2! Looking back at these I feel really good about how much I have progressed even just within the few weeks between these assignments
 <br>
-file:///Users/erin/AN588/AN588_Zombies_erinea/Homework_3.html
+<br>
+<b>[2c]</b> file:///Users/erin/AN588/AN588_Zombies_erinea/Homework_3.html
+<br>
 <br>
 Homework 3! This one was my favorite. I felt like I was really able to apply the skills we had been working on in class and I had been practicing in the modules. It was really fun to make all the graphs and was rewarding to see it all come together.
 <br>
-https://github.com/erin1928/AN588_Malfunction_erinea
+<br>
+<b>[2d]</b> https://github.com/erin1928/AN588_Malfunction_erinea
+<br>
 <br>
 Homework 4 is where things started getting really hard. I spent a long time on this homework and could not figure out the function past the writing of the warning message, but even that took a considerable effort. It was hard for me to feel like I couldn't complete an assignment but ultimately learned that "insurmountable coding problems" are a major part of the process.
 <br>
-file:///Users/erin/AN588/Boots_Final/erin1928_Boots_Final_erinea.html
+<br>
+<b>[2e]</b> file:///Users/erin/AN588/Boots_Final/erin1928_Boots_Final_erinea.html
+<br>
 <br>
 This final homework was also challenging, but by this point in the semester I was much more comfortable in R and had fun tackling this challenge and seeing how my peer's did it differently.
-Replication Assignment
+<br>
+<br>
+<b>[3]</b> Replication Assignment
+<br>
 <br>
 file:///Users/erin/AN588/Data_Replication/Data_Replication_Assignment.html
 <br>
+<br>
 This assignment was really challenging, and ultimately I was unsuccessful with unsuccessful of the statistical replications. Instead, I replicated a non-linear regression in place of the utilized one and ran my own separate GLM to try and understand some of the conclusions they were drawing.  
-Statistical vignette
+<br>
+<br>
+<b>[4]</b> Statistical vignette
+<br>
 <br>
 https://fuzzyatelin.github.io/bioanth-stats/module-F23-Group3/module-F23-Group3.html
 <br>
+<br>
 I wrote the KS Test section for the statistical vignette assignment. This was a challenging task considering I had no stats or coding experience prior to taking this class, so learning some of the jargon, derivaitons, and applications was a learning curve. Ultimately I came out with a much better understanding for normalcy and goodness of fit test, as well as proud of the time, effort, and final project.
-Attended all classes
+<br>
+<br>
+<b>[5]</b> Attended all classes
 <br>
 
 </div>
@@ -330,6 +340,9 @@ I completed all homework assignments on time.
 Two modules were done later than asked as I had not completed them fully and originally had old modules organized in a different way than I do now. 
 <br>
 My vignette was completed and presented on time, and I turned in my replication assignment on time and followed all deadlines as requested.
+<br><br><br><br><br><br></p>
+<hr />
+
 <br><br><br><br><br><br></p>
 <hr />
 
