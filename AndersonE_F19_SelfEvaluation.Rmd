@@ -284,6 +284,11 @@ repos, to the bulleted entry for that task.<br><br><br><br><br><br></p>
 Modules 1-22 including student-led modules
 All five homeowrk assignments and peer feedback
 <br>
+file:///Users/erin/AN588/AN-588-Week-2/Module-4.html
+<br>
+This was my first homework! I didn't know about chunks and how to organuze my code in R at this point and can visibly see the difference between that assignment and the work I've done at the end of the semester.
+<br>
+
 Replication Assignment
 <br>
 Statistical vignette
