@@ -281,7 +281,12 @@ to do for this course. Where relevant, please also link the
 <em>html</em> version of the file representing each task, in your own
 repos, to the bulleted entry for that task.<br><br><br><br><br><br></p>
 <hr />
-Modules 1-22 including student-led modules
+Modules 1-22, including student-led modules
+<br>
+https://github.com/erin1928?tab=repositories
+<br>
+I made each individual module a repo on GitHub and found this method to be very helpful for organizing as well as going back and looking at the code.
+<br>
 All five homework assignments and peer feedback
 <br>
 file:///Users/erin/AN588/AN-588-Week-2/Module-4.html
@@ -303,12 +308,12 @@ Homework 4 is where things started getting really hard. I spent a long time on t
 file:///Users/erin/AN588/Boots_Final/erin1928_Boots_Final_erinea.html
 <br>
 This final homework was also challenging, but by this point in the semester I was much more comfortable in R and had fun tackling this challenge and seeing how my peer's did it differently.
-
 Replication Assignment
 <br>
 Statistical vignette
 <br>
 Attended all classes
+<br>
 
 </div>
 <div id="what-did-you-accomplish" class="section level3">
