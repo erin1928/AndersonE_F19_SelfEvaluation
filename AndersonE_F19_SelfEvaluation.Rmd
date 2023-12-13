@@ -310,8 +310,14 @@ file:///Users/erin/AN588/Boots_Final/erin1928_Boots_Final_erinea.html
 This final homework was also challenging, but by this point in the semester I was much more comfortable in R and had fun tackling this challenge and seeing how my peer's did it differently.
 Replication Assignment
 <br>
+file:///Users/erin/AN588/Data_Replication/Data_Replication_Assignment.html
+<br>
+This assignment was really challenging, and ultimately I was unsuccessful with unsuccessful of the statistical replications. Instead, I replicated a non-linear regression in place of the utilized one and ran my own separate GLM to try and understand some of the conclusions they were drawing.  
 Statistical vignette
 <br>
+https://fuzzyatelin.github.io/bioanth-stats/module-F23-Group3/module-F23-Group3.html
+<br>
+I wrote the KS Test section for the statistical vignette assignment. This was a challenging task considering I had no stats or coding experience prior to taking this class, so learning some of the jargon, derivaitons, and applications was a learning curve. Ultimately I came out with a much better understanding for normalcy and goodness of fit test, as well as proud of the time, effort, and final project.
 Attended all classes
 <br>
 
