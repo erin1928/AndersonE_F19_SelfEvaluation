@@ -309,7 +309,7 @@ This final homework was also challenging, but by this point in the semester I wa
 file:///Users/erin/AN588/Data_Replication/Data_Replication_Assignment.html
 <br>
 <br>
-This assignment was really challenging, and ultimately I was unsuccessful with unsuccessful of the statistical replications. Instead, I replicated a non-linear regression in place of the utilized one and ran my own separate GLM to try and understand some of the conclusions they were drawing.  
+This assignment was really challenging, and ultimately I was unsuccessful with one of the statistical replications. Instead, I replicated a non-linear regression in place of the utilized one and ran my own separate GLM to try and understand some of the conclusions they were drawing.  
 <br>
 <br>
 <b>[4]</b> Statistical vignette
@@ -334,14 +334,15 @@ If you contacted me about them being late (and we discussed it and I
 said it was ok), please note that, too. You may provide a
 bulleted/numbered list matching the one
 above.
-
-I completed all homework assignments on time. 
-<br>
-Two modules were done later than asked as I had not completed them fully and originally had old modules organized in a different way than I do now. 
-<br>
-My vignette was completed and presented on time, and I turned in my replication assignment on time and followed all deadlines as requested.
-<br><br><br><br><br><br></p>
+<br><br><br><br><br><br>
 <hr />
+<b> [1] </b> I completed all homework assignments on time. 
+<br>
+<br>
+<b> [2] </b>Two modules were done later than asked as I had not completed them fully and originally had old modules organized in a different way than I do now. 
+<br>
+<br>
+<b> [3] </b> My vignette was completed and presented on time, and I turned in my replication assignment on time and followed all deadlines as requested.
 
 <br><br><br><br><br><br></p>
 <hr />
