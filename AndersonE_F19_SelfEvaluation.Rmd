@@ -296,6 +296,10 @@ file:///Users/erin/AN588/AN588_Zombies_erinea/Homework_3.html
 <br>
 Homework 3! This one was my favorite. I felt like I was really able to apply the skills we had been working on in class and I had been practicing in the modules. It was really fun to make all the graphs and was rewarding to see it all come together.
 <br>
+https://github.com/erin1928/AN588_Malfunction_erinea
+<br>
+Homework 4 is where things started getting really hard. I spent a long time on this homework and could not figure out the function past the writing of the warning message, but even that took a considerable effort. It was hard for me to feel like I couldn't complete an assignment but ultimately learned that "insurmountable coding problems" are a major part of the process.
+<br>
 
 
 Replication Assignment
