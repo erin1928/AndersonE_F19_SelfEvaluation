@@ -282,12 +282,17 @@ to do for this course. Where relevant, please also link the
 repos, to the bulleted entry for that task.<br><br><br><br><br><br></p>
 <hr />
 Modules 1-22 including student-led modules
-All five homeowrk assignments and peer feedback
+All five homework assignments and peer feedback
 <br>
 file:///Users/erin/AN588/AN-588-Week-2/Module-4.html
 <br>
 This was my first homework! I didn't know about chunks and how to organuze my code in R at this point and can visibly see the difference between that assignment and the work I've done at the end of the semester.
 <br>
+file:///Users/erin/AN588/Homework_2/erinea_OriginalHomeworkCode_02.html
+<br>
+This was homework 2! Looking back at these I feel really good about how much I have progressed even just within the few weeks between these assignments
+<br>
+
 
 Replication Assignment
 <br>
