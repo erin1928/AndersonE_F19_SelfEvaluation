@@ -1,10 +1,3 @@
----
-title: "AndersonE_F19_SelfEvaluation"
-author: "Erin Anderson"
-date: "`r Sys.Date()`"
-output: html_document
----
-<!DOCTYPE html>
 
 <html>
 
@@ -15,9 +8,9 @@ output: html_document
 <meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
-<meta name="author" content="Christopher A Schmitt" />
+<meta name="author" content="Erin Anderson" />
 
-<meta name="date" content="2023-08-17" />
+<meta name="date" content="2023-12-17" />
 
 <title>AN/BI 588: End-of-Semester Self Evaluation</title>
 
