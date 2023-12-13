@@ -300,7 +300,9 @@ https://github.com/erin1928/AN588_Malfunction_erinea
 <br>
 Homework 4 is where things started getting really hard. I spent a long time on this homework and could not figure out the function past the writing of the warning message, but even that took a considerable effort. It was hard for me to feel like I couldn't complete an assignment but ultimately learned that "insurmountable coding problems" are a major part of the process.
 <br>
-
+file:///Users/erin/AN588/Boots_Final/erin1928_Boots_Final_erinea.html
+<br>
+This final homework was also challenging, but by this point in the semester I was much more comfortable in R and had fun tackling this challenge and seeing how my peer's did it differently.
 
 Replication Assignment
 <br>
