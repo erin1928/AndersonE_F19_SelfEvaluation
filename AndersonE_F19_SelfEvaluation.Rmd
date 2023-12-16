@@ -209,7 +209,7 @@ href="https://fuzzyatelin.github.io/bioanth-stats/studentproblems.html">Insurmou
 Coding Problems</a></h3>
 <hr />
 <center>
-<font size="+2"><b>Sashay… Away.</b></font>
+<font size="+2"><b>There's still more werk to do!</b></font>
 </center>
 <p><br></p>
 <center>
@@ -390,7 +390,10 @@ I learned about R and how to import and use packages.
 I learned about linear regressions and how to use them to fit models and visualize data, as well as draw conclusions about normality and variance.
 <br>
 I learned how to make graphs and box plots (my favorite part of the course!)
+<br>
 I was introduced to GitHub and learned how to push and pull my/my peers' repos and work on them remotely (something I introduced to my lab and we work on together now!)
+<br>
+
 <br><br><br><br><br><br><br><br></p>
 
 <hr />
@@ -403,7 +406,7 @@ readings on teamwork foster this understanding? How did the teamwork
 experiences?</h3>
 <hr />
 <br>
-I learned about the importance of editing and reviewing my peer's code to gain a more well-rounded understanding of the ways in which people approaach and solve the same problem differently. I found that by running my peers' code and drawing ideas and ways to appraoch a problem from them allowed me to better understand the ways I was appraoching the problem, as well as how to troubleshoot my own code and overcome obstacles I faced during the class. Additionally, I enjoyed receiving annotations on my code from my peers as we often got stuck on different sections. It was helpful to recieve constructive criticisms from other students which I could impliment into the assignment, or save for later uses.
+I learned about the importance of editing and reviewing my peer's code to gain a more well-rounded understanding of the ways in which people approach and solve the same problem differently. I found that by running my peers' code and drawing ideas and ways to approach a problem from them allowed me to better understand the ways I was appraoching the problem, as well as how to troubleshoot my own code and overcome obstacles I faced during the class. Additionally, I enjoyed receiving annotations on my code from my peers as we often got stuck on different sections. It was helpful to receive constructive criticisms from other students which I could implement into the assignment, or save for later uses.
 <p><br><br><br><br><br><br><br><br><br><br><br><br></p>
 <hr />
 </div>
@@ -426,7 +429,7 @@ class="section level3">
 experience? If nothing, what would you do differently if you were to
 start over in this course?</h3>
 <hr />
-I gained a basic understanding of R and feel comfortable using it to carry-out my own analyses for personal projects. Although there is still a lot of practice I need to do and methods I need to learn, I haev fostered a confidence in my ability to code and analyze statistics I did not have prior to the class.
+I gained a basic understanding of R and feel comfortable using it to carry-out my own analyses for personal projects. Although there is still a lot of practice I need to do and methods I need to learn, I have fostered a confidence in my ability to code and analyze statistics I did not have prior to the class.
 <p><br><br><br><br><br><br><br><br><br><br><br><br></p>
 <hr />
 </div>
