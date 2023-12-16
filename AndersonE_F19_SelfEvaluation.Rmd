@@ -357,7 +357,7 @@ the least well? What was the hardest part for you? Did your
 work/understanding/ease improve over the course of the
 semester?
 
-I am very proud of my replication assignment, Zombies homework, and vignette. I felt that on all of these assignments I put a lot of work into my code and spent a considerable amount of time outside of class and office hours working to make my assignments work well and look nice. 
+I am very proud of my replication assignment, Zombies homework, and vignette. I felt that on all of these assignments I put a lot of work into my code and spent a considerable amount of time outside of class and office hours working to make my assignments work well and look nice. After receiving feedback on my statistical vignette, I went back into the project and continued to better my section and work with my group to make it more cohesive and easy to understand. I think the feedback provided helped me understand areas of improvement as well as nuances in my statistical method I had not previously expained. 
 
 I think I did the malfunction assignment the worst as I had a really hard time figuring the code out and working through the errors I was recieving.
 
