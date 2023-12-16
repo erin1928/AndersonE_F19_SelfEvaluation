@@ -357,11 +357,11 @@ the least well? What was the hardest part for you? Did your
 work/understanding/ease improve over the course of the
 semester?
 
-I am very proud of my replication assignment, Zombies homework, and vignette. I felt that on both of these assignments I put a lot of work into my code and spent a considerable amount of time outside of class and office hours working to make my assignments work well and look nice.
+I am very proud of my replication assignment, Zombies homework, and vignette. I felt that on all of these assignments I put a lot of work into my code and spent a considerable amount of time outside of class and office hours working to make my assignments work well and look nice. 
 
 I think I did the malfunction assignment the worst as I had a really hard time figuring the code out and working through the errors I was recieving.
 
-I struggled the most with the replication assignment and with the later modules on GLMMs. I found LMM and GLMMs conceptually challenging and difficult to replicate, as well as work through in my replication assignment. I also had trouble understanding and choosing which models to run for my replication assignment.
+I struggled the most with the replication assignment and with the later modules on GLMMs. I found LMM and GLMMs conceptually challenging and difficult to replicate, as well as work through in my replication assignment. I also had trouble understanding and choosing which models to run for my replication assignment. My paper used a difficult Jaccard Similarity to assess "flower constency" that was then used for GLMMs that I was unable to replicate and therefore use in my regressions. Instead, I took the opportunity to run a different Jaccard similarity test and GLMM to better understand some of the conclusions being drawn in the paper. Although these exact statistics were not run, I wanted to work with the content from the class I found most challenging and see if it would help me better understand why the researchers chose the variables that they did for the advanced regressions. I know this is not the point of the assignment, but because I was only able to replicate 2 of the 3 required analysis, I wanted to continue to work through the material to the best of my abilities.
 <br><br><br><br><br><br></p>
 <hr />
 
@@ -375,7 +375,7 @@ design changed since taking this course?</h3>
 <p>This may be in relation to previous knowledge, or in relation to
 future/planned work.
 
-I gained a better apprecuiation for statistics and how they relate to and can be used in research. I had no prior knowledge of stats or R before this class and feel much more comfortable reading empirical papers, understanding why certain models were run, and understanding R and its packages. I am currently working on a senior thesis and am using R to analyze and visualize my results!!
+I gained a better appreciation for statistics and how they relate to and can be used in research. I had no prior knowledge of stats or R before this class and feel much more comfortable reading empirical papers, understanding why certain models were run, and understanding R and its packages. I am currently working on a senior thesis and am using R to analyze and visualize my results!!
 <br><br><br><br><br><br><br><br></p>
 
 <hr />
@@ -386,7 +386,9 @@ I gained a better apprecuiation for statistics and how they relate to and can be
 <p>Please name at least three things you feel you learned in this
 course.
 I learned about R and how to import and use packages.
-I learned about linear regressions and how to use them to fit models and visualize data.
+<br>
+I learned about linear regressions and how to use them to fit models and visualize data, as well as draw conclusions about normality and variance.
+<br>
 I learned how to make graphs and box plots (my favorite part of the course!)
 I was introduced to GitHub and learned how to push and pull my/my peers' repos and work on them remotely (something I introduced to my lab and we work on together now!)
 <br><br><br><br><br><br><br><br></p>
@@ -400,6 +402,8 @@ class="section level3">
 readings on teamwork foster this understanding? How did the teamwork
 experiences?</h3>
 <hr />
+<br>
+I learned about the importance of editing and reviewing my peer's code to gain a more well-rounded understanding of the ways in which people approaach and solve the same problem differently. I found that by running my peers' code and drawing ideas and ways to appraoch a problem from them allowed me to better understand the ways I was appraoching the problem, as well as how to troubleshoot my own code and overcome obstacles I faced during the class. Additionally, I enjoyed receiving annotations on my code from my peers as we often got stuck on different sections. It was helpful to recieve constructive criticisms from other students which I could impliment into the assignment, or save for later uses.
 <p><br><br><br><br><br><br><br><br><br><br><br><br></p>
 <hr />
 </div>
@@ -410,6 +414,8 @@ class="section level3">
 all, to what you view as your successes or difficulties in this
 course?</h3>
 <hr />
+<br>
+I think working with a group for the vignette allowed me to synthesize some of the feedback I had received on past projects and helped me to better assist my group members trouble-shoot their own code. The peer commentary process got me comfortable with the trouble-shooting process as well as exposed me to different (and sometimes more efficient) ways of solving coding problems we had in the group project.
 <p><br><br><br><br><br><br><br><br><br><br><br><br></p>
 <hr />
 </div>
@@ -420,6 +426,7 @@ class="section level3">
 experience? If nothing, what would you do differently if you were to
 start over in this course?</h3>
 <hr />
+I gained a basic understanding of R and feel comfortable using it to carry-out my own analyses for personal projects. Although there is still a lot of practice I need to do and methods I need to learn, I haev fostered a confidence in my ability to code and analyze statistics I did not have prior to the class.
 <p><br><br><br><br><br><br><br><br><br><br><br><br></p>
 <hr />
 </div>
