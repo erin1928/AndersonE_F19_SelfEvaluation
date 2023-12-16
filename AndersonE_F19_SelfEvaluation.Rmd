@@ -385,6 +385,7 @@ I gained a better appreciation for statistics and how they relate to and can be 
 <hr />
 <p>Please name at least three things you feel you learned in this
 course.
+<br>
 I learned about R and how to import and use packages.
 <br>
 I learned about linear regressions and how to use them to fit models and visualize data, as well as draw conclusions about normality and variance.
